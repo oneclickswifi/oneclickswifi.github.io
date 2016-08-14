@@ -23,5 +23,5 @@ body{
 }
 #button_1{
 	height: 100px;
-    min-width: 352px;
+    padding: 0;
 }
